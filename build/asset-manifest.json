@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zero-to-master-basic/static/css/main.eefa427a.css",
+    "main.js": "/zero-to-master-basic/static/js/main.efd85173.js",
+    "static/media/SEGA.woff": "/zero-to-master-basic/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/zero-to-master-basic/index.html",
+    "main.eefa427a.css.map": "/zero-to-master-basic/static/css/main.eefa427a.css.map",
+    "main.efd85173.js.map": "/zero-to-master-basic/static/js/main.efd85173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefa427a.css",
+    "static/js/main.efd85173.js"
+  ]
+}
